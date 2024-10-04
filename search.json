@@ -747,11 +747,7 @@
     "href": "docs/guides.html",
     "title": "How-to Guides",
     "section": "",
-    "text": "The guides are split into a few major sections:\n\nComputing Infrastructure contains information and guides on TU Delft ICT infrastructure.\nData Management contains information and guides on using TU Delft data storage options and best-practices for FAIR data.\nResearch Software contains information for creating FAIR research software.\nResources contains a collection of courses, workshops, and references.",
-    "crumbs": [
-      "Guides",
-      "Getting started"
-    ]
+    "text": "The guides are split into a few major sections:\n\nComputing Infrastructure contains information and guides on TU Delft ICT infrastructure.\nData Management contains information and guides on using TU Delft data storage options and best-practices for FAIR data.\nResearch Software contains information for creating FAIR research software.\nResources contains a collection of courses, workshops, and references."
   },
   {
     "objectID": "docs/data/storage_options.html",
@@ -944,7 +940,11 @@
     "href": "index.html",
     "title": "Welcome to the DCC Guides!",
     "section": "",
-    "text": "These guides are an initiative from TU Delft Digital Competence Centre and aim to provide a comprehensive entrypoint to get you started with Research Computing, Research Data, and Research Software at TU Delft.\n\n\n\n\n\n\nDisclaimer\n\n\n\nThe guides are under active development and mainly in use as a useful resource for the support provided by the DCC. The content is a compilation of developed solutions, relevant links and resources, and documents produced by colleagues inside and outside TU Delft. This is not an official TU Delft website, but rather a place where we keep note of things we find important and useful to share.\n\n\nThe guides are split into a few major sections:\n\nComputing Infrastructure contains information and guides on TU Delft ICT infrastructure.\nData Management contains information and guides on using TU Delft data storage options and best-practices for FAIR data.\nResearch Software contains information for creating FAIR research software.\nResources contains a collection of courses, workshops, and references.\n\n\n\n\n\n\n\nLearn more and get involved\n\n\n\n🙌 Join the community\nWe welcome anyone to join us in improving our guides. To join, check out our contributing guide.\n💬 Join the discussion\nWe have community discussions, talk about ideas, share general questions and develop solutions and feedback in our community forum.\n💡 Open an issue\nWe track topic requests and bug-reports via GitHub issues."
+    "text": "These guides are an initiative from TU Delft Digital Competence Centre and aim to provide a comprehensive entrypoint to get you started with Research Computing, Research Data, and Research Software at TU Delft.\n\n\n\n\n\n\nDisclaimer\n\n\n\nThe guides are under active development and mainly in use as a useful resource for the support provided by the DCC. The content is a compilation of developed solutions, relevant links and resources, and documents produced by colleagues inside and outside TU Delft. This is not an official TU Delft website, but rather a place where we keep note of things we find important and useful to share.\n\n\nThe guides are split into a few major sections:\n\nComputing Infrastructure contains information and guides on TU Delft ICT infrastructure.\nData Management contains information and guides on using TU Delft data storage options and best-practices for FAIR data.\nResearch Software contains information for creating FAIR research software.\nResources contains a collection of courses, workshops, and references.\n\n\n\n\n\n\n\nLearn more and get involved\n\n\n\n🙌 Join the community\nWe welcome anyone to join us in improving our guides. To join, check out our contributing guide.\n💬 Join the discussion\nWe have community discussions, talk about ideas, share general questions and develop solutions and feedback in our community forum.\n💡 Open an issue\nWe track topic requests and bug-reports via GitHub issues.",
+    "crumbs": [
+      "Guides",
+      "Getting started"
+    ]
   },
   {
     "objectID": "docs/community/community.html",
