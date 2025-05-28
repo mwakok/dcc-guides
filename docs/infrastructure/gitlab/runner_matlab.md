@@ -1,11 +1,49 @@
-<!-- ---
-section: gitlab
-title: GitLab runner for MATLAB
-author_1: Maurits Kok 
-author_2: 
---- -->
+---
+# Insert this YAML header (including the opening and closing ---) at the beginning of the document and fill it out accordingly
 
-# Setting up a Gitlab runner for MATLAB
+# We use this key to indicate the last reviewed date [manual entry, use YYYY-MM-DD]
+# Uncomment and populate the next line accordingly
+#date: YYYY-MM-DD
+
+# We use this key to indicate the last modified date [automatic entry]
+date-modified: last-modified
+
+# Do not modify
+lang: en
+language: 
+  title-block-published: "Last reviewed"
+  title-block-modified: "Last modified"
+
+# Title of the document [manual entry]
+# Uncomment and populate the next line accordingly
+title: Setting up a GitLab runner for MATLAB
+
+# Brief overview of the document (will be used in listings) [manual entry]
+# Uncomment and populate the next line and uncomment "hide-description: true".
+#description: Short description of the document
+#hide-description: true
+
+# Authors of the document, will not be parsed [manual entry]
+# Uncomment and populate the next lines accordingly
+author_1: Maurits Kok
+#author_2:
+
+# Maintainers of the document, will not be parsed [manual entry]
+# Uncomment and populate the next lines accordingly
+#maintainer_1: Name Surname
+#maintainer_2:
+
+# To whom reach out regarding the document, will not be parsed [manual entry]
+# Uncomment and populate the next line accordingly
+#corresponding: Name Surname
+
+# Meaningful keywords, newline separated [manual entry]
+# Uncomment and populate the next line and list accordingly
+#categories: 
+# - 
+# - 
+
+---
 
 ## Background
 With the continuous method of software development, you continuously build, test, and deploy iterative code changes. This iterative process helps reduce the chance that you develop new code based on buggy or failed previous versions. With this method, you strive to have less human intervention or even no intervention at all, from the development of new code until its deployment.
@@ -26,7 +64,7 @@ To learn more about Docker containers, please look at the [Reproducible Computat
 
 ## Glossary of terms
 **CI/CD pipeline**  
-_A CI/CD pipeline automates your software delivery process. The pipeline builds code, runs tests (Continuous Intergation), and safely deploys a new version of the application (Continuous Delivery). See this [introduction](https://semaphoreci.com/blog/cicd-pipeline)._
+_A CI/CD pipeline automates your software delivery process. The pipeline builds code, runs tests (Continuous Intergation), and safely deploys a new version of the application (Continuous Delivery)._
 
 **Docker**  
 _We use a Docker container to run the Gitlab runner and initialise the CI/CD pipeline._
