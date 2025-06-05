@@ -298,10 +298,10 @@ website:
             - text: AI tooling
               href: docs/resources/tools.md
 
-    # - title: "TU Delft Support"
-    #   contents: 
-    #   - href: docs/tud-support/index.md
-    #     text: Support at TU Delft
+    - title: "TU Delft Support"
+      contents: 
+      - href: docs/tud-support/index.md
+        text: Support at TU Delft
     #   - href: docs/tud-support/partners.md
     #     text: Partners
     #   - href: docs/tud-support/professionalization.md

@@ -1,0 +1,20 @@
+- title: REIT
+  institution: TU Delft
+  role: Software Engineering
+  faculty: EEMCS
+  url: https://reit.tudelft.nl
+  categories: [support, training, hpc]
+
+- title: Open Science Community Delft
+  institution: CTU Delft
+  role: Clinical Integration
+  location: Canada
+  contact: julie.tremblay@cihr.gc.ca
+  categories: [support, training, hpc]
+
+- title: Faculty Data Stewards
+  institution: TU Delft
+  role: Data Stewardship
+  location: Germany
+  contact: markus.hahn@dzhg.de
+  categories: [support, training, hpc]

@@ -1,0 +1,117 @@
+---
+# Insert this YAML header (including the opening and closing ---) at the beginning of the document and fill it out accordingly
+
+# We use this key to indicate the last reviewed date [manual entry, use YYYY-MM-DD]
+# Uncomment and populate the next line accordingly
+#date: YYYY-MM-DD
+
+# We use this key to indicate the last modified date [automatic entry]
+date-modified: last-modified
+
+# Do not modify
+lang: en
+language: 
+  title-block-published: "Last reviewed"
+  title-block-modified: "Last modified"
+
+# Title of the document [manual entry]
+# Uncomment and populate the next line accordingly
+title: Research Support Staff Guide
+
+# Brief overview of the document (will be used in listings) [manual entry]
+# Uncomment and populate the next line and uncomment "hide-description: true".
+#description: Short description of the document
+#hide-description: true
+
+# Authors of the document, will not be parsed [manual entry]
+# Uncomment and populate the next lines accordingly
+#author_1: Name Surname
+#author_2:
+
+# Maintainers of the document, will not be parsed [manual entry]
+# Uncomment and populate the next lines accordingly
+#maintainer_1: Name Surname
+#maintainer_2:
+
+# To whom reach out regarding the document, will not be parsed [manual entry]
+# Uncomment and populate the next line accordingly
+#corresponding: Name Surname
+
+# Meaningful keywords, newline separated [manual entry]
+# Uncomment and populate the next line and list accordingly
+#categories: 
+# - 
+# - 
+
+---
+
+## Support Staff
+
+### Faculty ICT Manager
+The Faculty ICT Manager (FIM) is the relationship manager between the faculty and the ICT Shared Service Center. They act as an advisor, source of information, and point of contact.
+
+- Provide advice on ICT infrastructure
+
+- Faculty ICT Managers: https://intranet.tudelft.nl/en/group/guest/-/faculty-it-manager
+
+
+### Faculty Data Steward
+Some of the key functions of the data stewards are: 
+
+- Advise on research data management: planning, collecting, maintaining, storing, sharing, publication and re-use of research data and related results
+- Advise and support on Data Management Plans (DMPs) for funding proposals
+- Provide support and data funding possibilities for data processing and refinement
+- Assist with publications and citations
+- Assist with privacy, sensitive data, IP, metadata and archiving
+- Interface with ICT managers and university wide experts for specific data needs
+- Support research projects on data issues
+- Support on the new GDPR regulations
+- Organise trainings and workshops on data management
+- The fist contact for all research data and publication related questions
+
+
+Support Overview: https://www.tudelft.nl/en/library/current-topics/research-data-management/r/support/data-stewardship/support/support-overview
+Contact: https://www.tudelft.nl/en/library/current-topics/research-data-management/r/support/data-stewardship/contact
+
+## TU Delft Services
+
+### Software Finder
+https://softwarefinder.tudelft.nl/
+https://software.tudelft.nl/
+
+### Storage Finder
+- https://storagefinder.tudelft.nl/
+- https://tudelft.topdesk.net/tas/public/ssp/content/detail/service?unid=f359caaa60264f99b0084941736786ae&from=feffb489-e1f9-49cd-8223-53ae0b70b609
+
+## Research Data Management
+- https://phdsupervisors.tudl.tudelft.nl/phd-trajectory/
+- iRods?
+
+
+### Electronic Notebook
+
+
+## Infrastructure
+
+[{{< fa angle-right >}} Cluster comparison](https://daic.tudelft.nl/docs/system/tud-clusters/)
+
+### Delft Blue
+DelftBlue is TU Delft's supercomputer. It is designed to meet researchers' growing need for extensive computing power to solve complex problems in physics, mechanics and dynamics. The system is characterised by flexibility, speed and user-friendliness.
+
+{{< fa angle-right >}} https://doc.dhpc.tudelft.nl/delftblue/
+
+### Cloud4Research
+Cloud4Research is a TU Delft IT service to facilitate the use of public cloud for research. Currently, Amazon Web Services (AWS) is supported, but depending on demand, additional cloud providers may be added in the future. 
+
+Cloud4Research will pre-finance each cloud account with a base amount per (calendar) year. This means that if the researcher does not spend more than this base amount on cloud resources, no billing will take place and the researcher can use the service essentially “for free”.
+
+Acceptable use of the service is all use in a scientific or educational research context for research that is (co-)owned by TU Delft. So using it for research projects that TU Delft executes, or in (Master) courses for providing resources to students is the primary intended use of the service.
+
+### DAIC
+
+DAIC (formerly known as INSY-HPC or just plainly HPC) is a TU Delft High Performance Computing (HPC) cluster consisting of Linux compute servers with a lot of processing power and memory for running large, long or GPU-enabled jobs. DAIC was initiated within the INSY department in 2015, and later, resources were joined with ST (both from EWI), and with other departments across TU Delft faculties (TNW, TPM, 3mE and CiTG). The cluster is available (only) to users from the participating departments, and access can be arranged through the department's contact persons.
+
+{{< fa angle-right >}} https://daic.tudelft.nl/
+
+## 4TU.ResearchData
+
