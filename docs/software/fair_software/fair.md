@@ -4,8 +4,9 @@
 # We use this key to indicate the last reviewed date [manual entry, use YYYY-MM-DD]
 date: 2025-03-07
 
-# We use this key to indicate the last modified date [automatic entry]
-date-modified: last-modified
+# We use this key to indicate the last modified date [manual entry, use YYYY-MM-DD]
+# Uncomment and populate the next line accordingly
+date-modified: 2025-09-19
 
 # Do not modify
 lang: en
@@ -34,8 +35,8 @@ corresponding: Elviss Dvinskis
 
 # Meaningful keywords, newline separated [manual entry]
 categories: 
- - FAIR Software
-
+ - Software
+ - FAIR
 ---
 
 While originally targetting data management, the FAIR for Research Software (FAIR4RS) extends the [FAIR principles](../../data/fair_data/fair.md) to research software, which, unlike data, is executable and evolves over time. Ensuring the **f**indability of software involves metadata, identifiers, and version control systems, while **a**ccessibility includes guidelines for obtaining, installing, and running the software. **I**nteroperability involves adherence to community-driven standards or protocols, and **r**eusability requires detailed documentation and user guides to effectively apply the software in new research projects.

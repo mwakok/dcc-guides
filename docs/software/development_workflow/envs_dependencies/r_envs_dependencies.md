@@ -5,8 +5,9 @@
 # Uncomment and populate the next line accordingly
 date: 2025-02-14
 
-# We use this key to indicate the last modified date [automatic entry]
-date-modified: last-modified
+# We use this key to indicate the last modified date [manual entry, use YYYY-MM-DD]
+# Uncomment and populate the next line accordingly
+date-modified: 2025-09-19
 
 # Do not modify
 lang: en
@@ -39,14 +40,13 @@ corresponding: Elviss Dvinskis
 
 # Meaningful keywords, newline separated [manual entry]
 # Uncomment and populate the next line and list accordingly
-#categories: 
-# - r
-# - environments
-# - dependencies
-# - conda
-# - renv
-
-
+categories:
+  - Software
+  - Environments
+  - Dependencies
+  - R
+  - conda
+  - renv
 ---
 
 R users often rely on RStudio Projects and `renv` to manage their development environments. RStudio Projects organize your workspace by managing file paths and configurations, while `renv` tracks and restores package dependencies to ensure reproducibility. Together, they provide a structured and reliable workflow for managing R projects.

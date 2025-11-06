@@ -5,8 +5,9 @@
 # Uncomment and populate the next line accordingly
 date: 2025-04-07
 
-# We use this key to indicate the last modified date [automatic entry]
-date-modified: last-modified
+# We use this key to indicate the last modified date [manual entry, use YYYY-MM-DD]
+# Uncomment and populate the next line accordingly
+date-modified: 2025-09-19
 
 # Do not modify
 lang: en
@@ -40,8 +41,13 @@ corresponding: Elviss Dvinskis
 # Meaningful keywords, newline separated [manual entry]
 # Uncomment and populate the next line and list accordingly
 categories: 
- - data
- - collection
+ - Data
+ - Collection
+ - Data Conventions
+ - Data Access
+ - Data Reuse
+ - eLabJournal
+ - RSpace
 
 ---
 

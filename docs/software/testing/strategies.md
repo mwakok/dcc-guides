@@ -3,10 +3,11 @@
 
 # We use this key to indicate the last reviewed date [manual entry, use YYYY-MM-DD]
 # Uncomment and populate the next line accordingly
-#date: YYYY-MM-DD
+date: 2025-02-26
 
-# We use this key to indicate the last modified date [automatic entry]
-date-modified: last-modified
+# We use this key to indicate the last modified date [manual entry, use YYYY-MM-DD]
+# Uncomment and populate the next line accordingly
+date-modified: 2025-09-19
 
 # Do not modify
 lang: en
@@ -39,9 +40,9 @@ hide-description: true
 
 # Meaningful keywords, newline separated [manual entry]
 # Uncomment and populate the next line and list accordingly
-#categories: 
-# - testing
-# - 
+categories: 
+  - Software
+  - Testing
 ---
 
 In designing test cases for research software, it can be useful to conceptually differentiate between tests that verify **the technical correctness** of the code and tests that check **the scientific validity** of the results. With technical software tests, you check whether a function behaves as expected. With a scientific test, you compare the outcome of a function to known (experimental) scientific results. 

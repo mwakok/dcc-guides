@@ -5,8 +5,9 @@
 # Uncomment and populate the next line accordingly
 date: 2025-04-24
 
-# We use this key to indicate the last modified date [automatic entry]
-date-modified: last-modified
+# We use this key to indicate the last modified date [manual entry, use YYYY-MM-DD]
+# Uncomment and populate the next line accordingly
+date-modified: 2025-09-19
 
 # Do not modify
 lang: en
@@ -38,12 +39,11 @@ corresponding: Aysun Urhan
 
 # Meaningful keywords, newline separated [manual entry]
 # Uncomment and populate the next line and list accordingly
-#categories: 
-# - project management
-# - github
-# - issues
-# - project board
-
+categories:
+  - Software
+  - Project Organization
+  - Workflow Management
+  - Snakemake
 ---
 
 Workflow management for research software is the practice of organizing series of tasks related to research, such as how scientific code, data and experiments are developed, executed and shared to ensure reproducible, collaborative and efficient research. An example research workflow might include data processing, model training or running simulations, as well as recording and publishing the results. The main objective is not only about making the code run successfully, but about making it **reproducible**, **trackable** and **adaptable**.
@@ -103,7 +103,7 @@ Workflow managers come in many forms, from simple scripting approaches to full-f
 ## Snakemake: a Python-esque make 
 Snakemake essentially builds on the implicit wildcard rule approach of Make, and it extends its capabilities by allowing the use of Python in a pipeline. Just like Make, its goal is to produce a set of requested output files based on predefined rules and steps. 
 
-Although it was originally developed to create scalable bioinformatics and genomics pipelines, it can be generalized to other applications as well. It has become a standard tool in reproducible research; being cited more than [12 times per week in 2023](https://home.cern/events/snakemake-hackathon-march-2025), and has been used extensively in scientific publications in several different fields. Currently, it has [over one million downloads on Conda](https://anaconda.org/bioconda/snakemake).
+Although it was originally developed to create scalable bioinformatics and genomics pipelines, it can be generalized to other applications as well. It has become a standard tool in reproducible research; being cited more than [12 times per week in 2023](https://indico.cern.ch/event/1441041/), and has been used extensively in scientific publications in several different fields. Currently, it has [over one million downloads on Conda](https://anaconda.org/bioconda/snakemake).
 
 ### Noteworthy features of Snakemake
 - If Python and Make were to have a baby.

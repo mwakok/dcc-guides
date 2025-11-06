@@ -5,8 +5,9 @@
 # Uncomment and populate the next line accordingly
 date: 2025-04-04
 
-# We use this key to indicate the last modified date [automatic entry]
-date-modified: last-modified
+# We use this key to indicate the last modified date [manual entry, use YYYY-MM-DD]
+# Uncomment and populate the next line accordingly
+date-modified: 2025-09-19
 
 # Do not modify
 lang: en
@@ -39,12 +40,13 @@ corresponding: Elviss Dvinskis
 
 # Meaningful keywords, newline separated [manual entry]
 # Uncomment and populate the next line and list accordingly
-categories: 
- - package
- - release
- - python
- - pypi
- - testpypi
+categories:
+  - Software
+  - Package
+  - Release
+  - Python
+  - PyPI
+  - TestPyPI
 ---
 
 After bundling your source code into a package, you can publish it to PyPI. This will allow others to easily install your package using `pip`.
